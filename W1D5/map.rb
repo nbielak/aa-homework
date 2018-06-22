@@ -30,8 +30,3 @@ class Map
     @map
   end
 end
-
-map = Map.new([["apple", "red"], ["banana", "yellow"]])
-p map.delete("orange")
-p map.delete("banana")
-p map.show

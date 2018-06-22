@@ -24,7 +24,3 @@ class Stack
     @stack[-1]
   end
 end
-
-p stack = Stack.new([1, 2, 3, 4, 5])
-p stack.push(6)
-p stack.pop
