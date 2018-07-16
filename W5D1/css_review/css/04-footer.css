@@ -1,0 +1,32 @@
+/* PHASE 4: Footer */
+
+.footer {
+  width: 900px;
+  margin: 0 auto 50px auto;
+  background: #fff;
+  color: #aaa;
+  font-size: 14px;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.footer-copy {
+
+}
+
+.footer-links {
+
+}
+
+.footer-links > li {
+
+}
+
+.footer a {
+
+}
+
+.footer a:hover {
+
+}
